@@ -21,4 +21,4 @@ Note: the website shouldn't change in appearance, but the styles should become e
 
 This video shows you how to complete the lesson task 4.3. Only watch it after attempting the lesson task by yourself.
 
-https://vimeo.com/483465289/9e234f9fea
+[Video on Vimeo](https://vimeo.com/483465289/9e234f9fea)
