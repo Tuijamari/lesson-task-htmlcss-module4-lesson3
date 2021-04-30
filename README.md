@@ -14,3 +14,8 @@ By the end of the task you should have:
 - Changed 'grid-gap' to the latest specification of 'gap'
 
 Note: the website shouldn't change in appearance, but the styles should become easier to follow and edit.
+
+## Multiple Stylesheets vs Single Stylesheet
+Having one single stylesheet is good for speeding up load time, while having one global stylesheet and an additional stylesheet per page can help you maintain the project a bit more easily. The decision is largely up to the developer, but if you are unsure at all rather stick with one global stylesheet for the whole site. 
+
+If you are thinking of breaking a stylesheet up per page, make sure you have a global stylesheet with all your common styles as well as the stylesheet for that page. Do not duplicate styles and stylesheets as this is against DRY principles. Ideally you would be using a CSS Preprocessor like Sass to help you manage your CSS, but we'll get to that in later courses.
